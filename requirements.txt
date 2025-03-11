@@ -1,0 +1,8 @@
+streamlit
+datetime
+json
+openai
+re
+beautifulsoup4
+requests
+langchain
