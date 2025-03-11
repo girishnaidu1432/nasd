@@ -1,7 +1,7 @@
 streamlit
 datetime
 json
-openai
+openai==0.28
 re
 beautifulsoup4
 requests
