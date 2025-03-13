@@ -6,3 +6,4 @@ re
 beautifulsoup4
 requests
 langchain
+langraph
