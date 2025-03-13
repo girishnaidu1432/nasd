@@ -8,3 +8,4 @@ langchain
 langgraph
 langchain-community
 numpy
+typing
